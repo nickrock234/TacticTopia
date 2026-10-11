@@ -1,0 +1,24 @@
+{
+ "file": "flag_owned_blue.png",
+ "frameW": 16,
+ "frameH": 24,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  160,
+  160,
+  160,
+  160
+ ],
+ "loop": true,
+ "anchor": [
+  4,
+  23
+ ],
+ "note": "Blue = square. Rows 8-9 = player accent."
+}

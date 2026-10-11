@@ -1,0 +1,33 @@
+{
+ "file": "mage_attack_ne_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  160,
+  120,
+  140,
+  120,
+  160
+ ],
+ "loop": false,
+ "events": {
+  "release": 2
+ },
+ "projectile": "mage_bolt",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "staff"
+}

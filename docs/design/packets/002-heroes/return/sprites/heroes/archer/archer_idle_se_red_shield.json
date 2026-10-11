@@ -1,0 +1,29 @@
+{
+ "file": "archer_idle_se_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  220,
+  140,
+  220,
+  140
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "bow",
+ "layer": "behind hero",
+ "note": "Buckler overlay, frame-matched to archer_idle_se_red. Draw only once the shield is bought."
+}

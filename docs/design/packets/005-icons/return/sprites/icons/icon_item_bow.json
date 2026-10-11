@@ -1,0 +1,14 @@
+{
+ "file": "icon_item_bow.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 24,
+ "note": "24x24 native; show at 2x (48 CSS px)."
+}

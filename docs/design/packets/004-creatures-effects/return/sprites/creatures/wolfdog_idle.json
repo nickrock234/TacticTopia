@@ -1,0 +1,25 @@
+{
+ "file": "wolfdog_idle.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  220,
+  200,
+  220,
+  200
+ ],
+ "loop": true,
+ "anchor": [
+  12,
+  22
+ ],
+ "name": "Wolf-dog (medium camp monster, 10 HP)",
+ "note": "Faces left; flip for right."
+}

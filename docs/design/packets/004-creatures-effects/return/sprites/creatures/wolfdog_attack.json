@@ -1,0 +1,29 @@
+{
+ "file": "wolfdog_attack.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  140,
+  90,
+  70,
+  120,
+  100,
+  100
+ ],
+ "loop": false,
+ "anchor": [
+  12,
+  22
+ ],
+ "hitFrame": 3,
+ "note": "Crouch, lunge, bite toward the attacker (faces left; flip for right). Hit spark on the attacker at hitFrame."
+}

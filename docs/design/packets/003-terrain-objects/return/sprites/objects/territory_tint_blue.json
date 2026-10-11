@@ -1,0 +1,33 @@
+{
+ "file": "territory_tint_blue.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 16,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "durations": [
+  0
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  8
+ ],
+ "note": "Territory overlay, one 32x16 diamond per owned tile (the 3x3 around an owned landmark). Column = which edge-sharing neighbours are also this team's territory (NE=1, SE=2, SW=4, NW=8); open edges get a bright team border with a soft inner band, so the 3x3 reads as one outlined region. Fill is 18% alpha so terrain shows through. Draw after ground and roads, before objects and units."
+}

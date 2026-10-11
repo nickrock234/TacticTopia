@@ -1,0 +1,10 @@
+{
+  "name": "tactic-topia",
+  "private": true,
+  "type": "module",
+  "description": "Rules engine + balance simulations. Runs on Node 24 directly (native TypeScript), no build step.",
+  "scripts": {
+    "test": "node --test tests/*.test.ts server/tests/*.test.ts",
+    "sim:combat": "node sim/combat-matrix.ts"
+  }
+}

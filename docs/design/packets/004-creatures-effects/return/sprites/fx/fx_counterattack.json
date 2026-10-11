@@ -1,0 +1,24 @@
+{
+ "file": "fx_counterattack.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  30,
+  40,
+  50,
+  70
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  16
+ ],
+ "note": "Quick return slash on the original attacker, right after their hit lands."
+}

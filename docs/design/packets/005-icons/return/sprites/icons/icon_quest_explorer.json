@@ -1,0 +1,15 @@
+{
+ "file": "icon_quest_explorer.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 24,
+ "family": "quest",
+ "note": "24x24 native, frameless, warm ink outline; show at 2x (48 CSS px)."
+}

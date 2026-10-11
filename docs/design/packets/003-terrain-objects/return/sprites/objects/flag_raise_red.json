@@ -1,0 +1,24 @@
+{
+ "file": "flag_raise_red.png",
+ "frameW": 16,
+ "frameH": 20,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  150,
+  150,
+  150,
+  250
+ ],
+ "loop": false,
+ "anchor": [
+  2,
+  19
+ ],
+ "note": "Claim animation: banner climbs the pole, then hand off to flag_top_red. Same anchor and flagSlot."
+}

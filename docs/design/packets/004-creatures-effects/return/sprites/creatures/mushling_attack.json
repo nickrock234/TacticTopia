@@ -1,0 +1,29 @@
+{
+ "file": "mushling_attack.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  140,
+  80,
+  80,
+  120,
+  100,
+  100
+ ],
+ "loop": false,
+ "anchor": [
+  12,
+  22
+ ],
+ "hitFrame": 3,
+ "note": "Retaliation bounce-slam toward the attacker (faces left; flip for right). Play hit spark on the attacker at hitFrame."
+}

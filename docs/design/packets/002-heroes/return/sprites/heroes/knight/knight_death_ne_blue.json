@@ -1,0 +1,27 @@
+{
+ "file": "knight_death_ne_blue.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  120,
+  120,
+  180,
+  0
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "blue",
+ "note": "Hold last frame; doubles as fallen-hero marker."
+}

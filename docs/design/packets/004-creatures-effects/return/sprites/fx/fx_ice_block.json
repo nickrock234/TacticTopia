@@ -1,0 +1,24 @@
+{
+ "file": "fx_ice_block.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  200,
+  200,
+  200,
+  200
+ ],
+ "loop": true,
+ "note": "Ice block status loop, drawn over the hero (anchor = hero anchor). Translucent fill (alpha in PNG). Lasts until their next turn; on end play it once reversed or just remove."
+}

@@ -1,0 +1,14 @@
+{
+ "file": "icon16_status_invisible.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 16,
+ "note": "16x16 native. Includes 1px 50% drop shadow down-right."
+}

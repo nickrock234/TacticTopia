@@ -1,0 +1,35 @@
+{
+ "file": "knight_flail_attack_se_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  160,
+  70,
+  70,
+  110,
+  80,
+  160
+ ],
+ "loop": false,
+ "events": {
+  "hit": 3
+ },
+ "note": "Spin hits all adjacent enemies on frame 3.",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "flail"
+}

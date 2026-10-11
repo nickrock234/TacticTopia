@@ -1,0 +1,24 @@
+{
+ "file": "alert_hidden.png",
+ "frameW": 8,
+ "frameH": 14,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  200,
+  200,
+  120,
+  200
+ ],
+ "loop": true,
+ "anchor": [
+  4,
+  13
+ ],
+ "note": "Hidden-enemy cue. Anchor (bottom centre) sits 4px above the tile top / hero head. Yellow-white, never team-coloured."
+}

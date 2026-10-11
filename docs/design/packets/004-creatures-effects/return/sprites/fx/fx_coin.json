@@ -1,0 +1,24 @@
+{
+ "file": "fx_coin.png",
+ "frameW": 8,
+ "frameH": 8,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  70,
+  70,
+  70,
+  70
+ ],
+ "loop": true,
+ "anchor": [
+  4,
+  4
+ ],
+ "note": "Pickpocket: spawn 3-5 coins at target chest, arc (peak 12px) to the thief chest over 350ms, staggered 60ms; then gold pop on the thief. Reusable for other gold transfers."
+}

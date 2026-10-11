@@ -1,0 +1,25 @@
+{
+ "file": "home_base_siege_red.png",
+ "frameW": 48,
+ "frameH": 48,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  150,
+  150,
+  150,
+  150
+ ],
+ "loop": true,
+ "anchor": [
+  24,
+  40
+ ],
+ "swap": "T0-T3 roof+banner+pennant, P0 door-banner stripe (same as home_base_red)",
+ "note": "Under-siege state of home_base_red (an enemy hero stands on the base). 4-frame loop: flames on both eaves, smoke rising from behind the left slope, cracked walls. Effects sit on the roof edges and above-left so they stay visible around the hero drawn on top. Footprint as home_base_red."
+}

@@ -1,0 +1,34 @@
+{
+ "file": "fx_heavy_strike.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  50,
+  40,
+  60,
+  80,
+  100,
+  110
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  16
+ ],
+ "hitFrame": 2,
+ "shake": {
+  "frame": 2,
+  "px": 2,
+  "ms": 140
+ },
+ "note": "Heavy impact at target chest. Suggest 2px shake at hitFrame."
+}

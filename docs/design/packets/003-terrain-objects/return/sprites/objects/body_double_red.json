@@ -1,0 +1,24 @@
+{
+ "file": "body_double_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  200,
+  120,
+  200,
+  120
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "note": "Thief Body double (1 HP decoy that holds a claim): translucent lavender shade of thief_idle_se, crawling shimmer line, feet dissolving into wisps, team accent kept solid so ownership reads. Same anchor/facing as the thief; mirror for SW. On death play fx/fx_poof at the same anchor."
+}

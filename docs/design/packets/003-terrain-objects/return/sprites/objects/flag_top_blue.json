@@ -1,0 +1,24 @@
+{
+ "file": "flag_top_blue.png",
+ "frameW": 16,
+ "frameH": 20,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  160,
+  160,
+  160,
+  160
+ ],
+ "loop": true,
+ "anchor": [
+  2,
+  19
+ ],
+ "note": "Blue = square flying from the top of the landmark pillar. Anchor = pole foot; draw after the marker with anchor on landmark_marker flagSlot (11,12). Spills above the marker frame by 7px. Banner rows 6-7 hold the player accent."
+}

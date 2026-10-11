@@ -1,0 +1,28 @@
+{
+ "file": "fx_teleport.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  60,
+  60,
+  70,
+  70,
+  80,
+  90
+ ],
+ "loop": false,
+ "note": "Teleport: play at origin (hero fades out by frame 2), then play at destination reversed (hero fades in from frame 3 of the reversed run)."
+}

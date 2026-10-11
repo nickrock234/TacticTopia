@@ -1,0 +1,24 @@
+{
+ "file": "fx_bolt_fire.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  70,
+  70,
+  70,
+  70
+ ],
+ "loop": true,
+ "anchor": [
+  8,
+  8
+ ],
+ "note": "Mage bolt projectile (fire mage). Non-directional orb; move it from caster chest to target chest (hero anchor minus 14px) at ~220 px/s. Then play fx_bolt_fire_impact."
+}

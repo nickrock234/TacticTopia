@@ -1,0 +1,17 @@
+{
+ "file": "mountain_ridge.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "anchor": [
+  16,
+  24
+ ],
+ "note": "32x32. Bottom 16 rows are the footprint tile; rock rises max 10px above tile top. Blocking terrain."
+}

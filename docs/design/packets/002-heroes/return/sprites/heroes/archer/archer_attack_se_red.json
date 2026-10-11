@@ -1,0 +1,33 @@
+{
+ "file": "archer_attack_se_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  140,
+  220,
+  80,
+  120,
+  140
+ ],
+ "loop": false,
+ "events": {
+  "release": 2
+ },
+ "projectile": "archer_arrow",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "bow"
+}

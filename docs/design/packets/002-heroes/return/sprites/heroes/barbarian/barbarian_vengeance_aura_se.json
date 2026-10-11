@@ -1,0 +1,31 @@
+{
+ "file": "barbarian_vengeance_aura_se.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  90,
+  90,
+  90,
+  90,
+  90,
+  90
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "layer": "behind hero",
+ "note": "Loop while Vengeance is active. Draw under the hero sprite; works for any weapon/anim."
+}

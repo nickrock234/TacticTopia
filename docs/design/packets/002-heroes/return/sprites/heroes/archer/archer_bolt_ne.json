@@ -1,0 +1,20 @@
+{
+ "file": "archer_bolt_ne.png",
+ "frameW": 16,
+ "frameH": 9,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "loop": true,
+ "durations": [
+  0
+ ],
+ "anchor": [
+  14,
+  1
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "note": "Flight sprite. Anchor = tip. Move from the release frame at ~4 tiles/s along the facing; hide on impact. Aim height ≈ 10px above tile anchor."
+}

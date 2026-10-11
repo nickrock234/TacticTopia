@@ -1,0 +1,28 @@
+{
+ "file": "landmark_mana_fountain.png",
+ "frameW": 32,
+ "frameH": 48,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  150,
+  150,
+  150,
+  150
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  40
+ ],
+ "note": "Stone basin fountain: jet pulses, droplets arc, ripples, sparkles. Own sand footprint. 32x48 like landmark_fire; footprint diamond rows 32-47. Ownership is shown by the flag and territory tint, not on this sprite. flagSlot (27,35) = right basin rim; flag spills right of the frame (fine, drawn as its own sprite).",
+ "flagSlot": [
+  27,
+  35
+ ]
+}

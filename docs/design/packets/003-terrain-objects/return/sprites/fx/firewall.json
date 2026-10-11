@@ -1,0 +1,28 @@
+{
+ "file": "firewall.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  100,
+  100,
+  100,
+  100,
+  100,
+  100
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  24
+ ],
+ "note": "Firewall tile loop: scorched diamond with 9 outlined flame tongues and ember glints. 32x32, anchor (16,24) = tile centre (diamond fills rows 16-31). Placed on each of the 5 tiles of the U; draw back-to-front with units. Offset start frame per tile ((col+row)*2 % 6) so the wall does not pulse in sync."
+}

@@ -1,0 +1,15 @@
+{
+ "file": "cloud_b.png",
+ "frameW": 48,
+ "frameH": 20,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "anchor": [
+  24,
+  19
+ ],
+ "overlay": true,
+ "note": "Free-floating cloud for the void around the map. Drift slowly (about 2 px/s at 1x, wrap around). Back layer behind the board on a solid sky of #7a92a4; a few may pass in front of the NW/NE back edges only."
+}

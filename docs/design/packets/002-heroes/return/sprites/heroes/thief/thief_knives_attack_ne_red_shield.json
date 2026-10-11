@@ -1,0 +1,35 @@
+{
+ "file": "thief_knives_attack_ne_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  120,
+  140,
+  80,
+  120,
+  140
+ ],
+ "loop": false,
+ "events": {
+  "release": 2
+ },
+ "projectile": "thief_knife",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "knives",
+ "layer": "over hero",
+ "note": "Buckler overlay on the off-hand, frame-matched to thief_knives_attack_ne_red."
+}

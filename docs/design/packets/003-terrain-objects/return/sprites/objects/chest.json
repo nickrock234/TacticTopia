@@ -1,0 +1,40 @@
+{
+ "file": "chest.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  0,
+  90,
+  90,
+  90,
+  0
+ ],
+ "loop": false,
+ "anchor": [
+  12,
+  20
+ ],
+ "states": {
+  "closed": [
+   0
+  ],
+  "opening": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "open": [
+   4
+  ]
+ },
+ "note": "Treasure chest 24x24, anchor (12,20) on tile centre. Frame 0 closed; opening plays 1-4 (lid swings up on its back hinge, gold rises, sparkles); hold frame 4 as open."
+}

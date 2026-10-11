@@ -1,0 +1,28 @@
+{
+ "file": "fx_fireball_blast.png",
+ "frameW": 64,
+ "frameH": 48,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  50,
+  60,
+  70,
+  90,
+  110,
+  120
+ ],
+ "loop": false,
+ "anchor": [
+  32,
+  32
+ ],
+ "note": "Centre blast over the target tile, drawn above units, t=0. Projectile: fx_bolt_fire scaled 1x (same orb)."
+}

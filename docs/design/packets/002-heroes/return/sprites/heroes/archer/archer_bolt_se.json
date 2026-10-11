@@ -1,0 +1,20 @@
+{
+ "file": "archer_bolt_se.png",
+ "frameW": 16,
+ "frameH": 9,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "loop": true,
+ "durations": [
+  0
+ ],
+ "anchor": [
+  14,
+  7
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "note": "Flight sprite. Anchor = tip."
+}

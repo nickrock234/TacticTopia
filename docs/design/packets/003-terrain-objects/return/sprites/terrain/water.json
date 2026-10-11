@@ -1,0 +1,23 @@
+{
+ "file": "water.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 3,
+ "order": [
+  0,
+  1,
+  2
+ ],
+ "durations": [
+  300,
+  300,
+  300
+ ],
+ "loop": true,
+ "phaseOffset": "per tile (x+y)%3",
+ "anchor": [
+  16,
+  8
+ ],
+ "note": "Anchor = diamond centre. Tiles step (16,8) per grid unit."
+}

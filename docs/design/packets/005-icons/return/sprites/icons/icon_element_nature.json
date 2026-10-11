@@ -1,0 +1,15 @@
+{
+ "file": "icon_element_nature.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 24,
+ "family": "element",
+ "note": "24x24 native, element circle; show at 2x."
+}

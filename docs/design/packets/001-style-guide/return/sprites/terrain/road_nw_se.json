@@ -1,0 +1,18 @@
+{
+ "file": "road_nw_se.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "overlay": true,
+ "note": "Overlay on plains. Runs NW edge to SE edge (along the map column axis); mirror for NE-SW.",
+ "anchor": [
+  16,
+  8
+ ]
+}

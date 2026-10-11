@@ -1,0 +1,21 @@
+{
+ "file": "map_edge.png",
+ "frameW": 32,
+ "frameH": 29,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "anchor": [
+  16,
+  8
+ ],
+ "overlay": true,
+ "layout": "2 variants x [SW face, SE face, both (south corner)]: frames 0-2 = variant A, 3-5 = variant B.",
+ "note": "32x29 underlay: the earthen side face that hangs below the board. Draw under the tile at the same anchor (diamond rows 0-15 are empty in this sprite). Last row (SW edge) gets SW face, last column (SE edge) gets SE face, the bottom corner tile gets both. NW and NE edges are back edges: no face, the cloud layer sits behind them. Lit SW face is warmer/lighter, SE face is in shade (light from upper left)."
+}

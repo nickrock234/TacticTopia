@@ -1,0 +1,18 @@
+{
+ "file": "fog.png",
+ "frameW": 32,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "overlay": true,
+ "anchor": [
+  16,
+  16
+ ],
+ "note": "32x24. Diamond occupies rows 8-23; puffs rise up to 8px. Draw back-to-front with terrain."
+}

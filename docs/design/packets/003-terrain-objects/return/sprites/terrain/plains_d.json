@@ -1,0 +1,17 @@
+{
+ "file": "plains_d.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "anchor": [
+  16,
+  8
+ ],
+ "note": "Anchor = diamond centre. Tiles step (16,8) per grid unit."
+}

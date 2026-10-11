@@ -1,0 +1,31 @@
+{
+ "file": "knight_attack_ne_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  180,
+  60,
+  160,
+  100,
+  140
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "events": {
+  "hit": 2
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "file": "app_icon.png",
+ "frameW": 48,
+ "frameH": 48,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 48,
+ "family": "app",
+ "note": "48x48 native. Scale nearest-neighbour: x16 = 768, x20 = 960, x21 + pad = 1024."
+}

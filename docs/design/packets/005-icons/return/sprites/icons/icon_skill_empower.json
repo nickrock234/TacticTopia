@@ -1,0 +1,17 @@
+{
+ "file": "icon_skill_empower.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 24,
+ "family": "class",
+ "passive": false,
+ "free": false,
+ "note": "24x24 native; show at 2x (48 CSS px)."
+}

@@ -1,0 +1,24 @@
+{
+ "file": "addon_lair.png",
+ "frameW": 16,
+ "frameH": 20,
+ "frames": 3,
+ "order": [
+  0,
+  1,
+  0,
+  2
+ ],
+ "durations": [
+  700,
+  300,
+  900,
+  150
+ ],
+ "loop": true,
+ "anchor": [
+  8,
+  18
+ ],
+ "note": "16x20 lair add-on: mossy rock mound with a dark cave mouth, ember eyes glow and blink, bones at the lip. Draw last with its anchor on landmark_marker addonSlot (same slot as addon_merchant; a landmark has at most one add-on)."
+}

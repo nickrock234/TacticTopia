@@ -1,0 +1,9 @@
+node_modules/
+*.log
+webapp/public/art/
+webapp/dist/
+docs/design/**/*.zip
+server/data/
+
+# Local Netlify folder
+.netlify

@@ -1,0 +1,28 @@
+{
+ "file": "fx_cross_heal_tile.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  60,
+  80,
+  100,
+  110,
+  110,
+  120
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  24
+ ],
+ "note": "Cross heal: caster tile + 1 tile in each straight direction (5 tiles). Centre t=0, arms at 70ms. Green = heal (same family as fx_self_heal)."
+}

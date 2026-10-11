@@ -1,0 +1,27 @@
+{
+ "file": "archer_crossbow_walk_se_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  90,
+  90,
+  90,
+  90
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "crossbow"
+}

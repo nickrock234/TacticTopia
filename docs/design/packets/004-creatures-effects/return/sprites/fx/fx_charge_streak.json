@@ -1,0 +1,26 @@
+{
+ "file": "fx_charge_streak.png",
+ "frameW": 48,
+ "frameH": 16,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  40,
+  50,
+  60,
+  70,
+  80
+ ],
+ "loop": false,
+ "anchor": [
+  47,
+  8
+ ],
+ "note": "Speed streak drawn behind the charging hero, anchor at their chest, pointing along the dash. Rotate/flip to the dash direction (iso: +-26.6deg); stretch along x for longer charges. Dust kicks at the tail."
+}

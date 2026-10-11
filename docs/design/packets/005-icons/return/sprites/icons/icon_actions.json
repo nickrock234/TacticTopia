@@ -1,0 +1,15 @@
+{
+ "file": "icon_actions.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 24,
+ "family": "resource",
+ "note": "24x24 native; show at 1x/2x."
+}

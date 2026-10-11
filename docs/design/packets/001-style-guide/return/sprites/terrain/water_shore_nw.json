@@ -1,0 +1,22 @@
+{
+ "file": "water_shore_nw.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 3,
+ "order": [
+  0,
+  1,
+  2
+ ],
+ "durations": [
+  300,
+  300,
+  300
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  8
+ ],
+ "note": "Grass bank on the NW (upper-left) edge. Mirror horizontally for NE. SW/SE edges come in the full autotile set."
+}

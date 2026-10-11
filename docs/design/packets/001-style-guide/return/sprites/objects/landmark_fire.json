@@ -1,0 +1,23 @@
+{
+ "file": "landmark_fire.png",
+ "frameW": 32,
+ "frameH": 48,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  120,
+  120,
+  120,
+  120
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  40
+ ]
+}

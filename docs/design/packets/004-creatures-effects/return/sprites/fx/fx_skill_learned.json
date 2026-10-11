@@ -1,0 +1,30 @@
+{
+ "file": "fx_skill_learned.png",
+ "frameW": 48,
+ "frameH": 48,
+ "frames": 7,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "durations": [
+  50,
+  60,
+  70,
+  80,
+  90,
+  100,
+  110
+ ],
+ "loop": false,
+ "anchor": [
+  24,
+  24
+ ],
+ "note": "Skill learned: centre on the skill-tree node (icon at 2x -> draw this at 2x too). Node switches to owned at frame 1. Neutral white/yellow, reads on any class colour."
+}

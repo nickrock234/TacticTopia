@@ -1,0 +1,35 @@
+{
+ "file": "archer_attack_ne_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  140,
+  220,
+  80,
+  120,
+  140
+ ],
+ "loop": false,
+ "events": {
+  "release": 2
+ },
+ "projectile": "archer_arrow",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "bow",
+ "layer": "over hero",
+ "note": "Buckler overlay, frame-matched to archer_attack_ne_red. Draw only once the shield is bought."
+}

@@ -1,0 +1,32 @@
+{
+ "file": "fx_ambush.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  50,
+  40,
+  40,
+  50,
+  60,
+  80
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  16
+ ],
+ "hitFrames": [
+  1,
+  2
+ ],
+ "note": "Strike from shadow: dark puff then two crossing dagger stabs at target chest. Used for Ambush and Double dagger."
+}

@@ -1,0 +1,29 @@
+{
+ "file": "mage_death_se_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  120,
+  120,
+  180,
+  0
+ ],
+ "loop": false,
+ "note": "Buckler overlay on the off-hand, frame-matched to mage_death_se_red.",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "staff",
+ "layer": "over hero"
+}

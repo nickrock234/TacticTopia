@@ -1,0 +1,29 @@
+{
+ "file": "archer_crossbow_idle_ne_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  220,
+  140,
+  220,
+  140
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "crossbow",
+ "layer": "over hero",
+ "note": "Buckler overlay, frame-matched to archer_crossbow_idle_ne_red. Draw only once the shield is bought."
+}

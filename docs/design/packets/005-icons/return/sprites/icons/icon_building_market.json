@@ -1,0 +1,15 @@
+{
+ "file": "icon_building_market.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 24,
+ "family": "building",
+ "note": "24x24 native; show at 2x (48 CSS px). Object on the shared stone plinth."
+}

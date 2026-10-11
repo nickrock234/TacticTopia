@@ -1,0 +1,18 @@
+{
+ "file": "home_base_red.png",
+ "frameW": 48,
+ "frameH": 48,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "anchor": [
+  24,
+  40
+ ],
+ "swap": "T0-T3 roof+banner+pennant, P0 door-banner stripe",
+ "note": "Sits on one tile; footprint diamond at rows 32-47, x 8-39."
+}

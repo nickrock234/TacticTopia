@@ -1,0 +1,22 @@
+{
+ "file": "desert_hot_b.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 3,
+ "order": [
+  0,
+  1,
+  2
+ ],
+ "durations": [
+  250,
+  250,
+  250
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  8
+ ],
+ "note": "Variant of desert_hot with a different crack pattern; mix randomly with desert_hot to break repetition. Anchor = diamond centre. Tiles step (16,8) per grid unit."
+}

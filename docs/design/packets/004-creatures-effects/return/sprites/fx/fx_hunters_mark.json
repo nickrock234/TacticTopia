@@ -1,0 +1,24 @@
+{
+ "file": "fx_hunters_mark.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  180,
+  120,
+  180,
+  120
+ ],
+ "loop": true,
+ "anchor": [
+  8,
+  8
+ ],
+ "note": "Hunter's mark reticle on the marked target chest (hero anchor minus 14px). Amber, never team colours."
+}

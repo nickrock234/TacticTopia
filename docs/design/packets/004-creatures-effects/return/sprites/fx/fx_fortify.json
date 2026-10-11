@@ -1,0 +1,28 @@
+{
+ "file": "fx_fortify.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  120,
+  120,
+  120,
+  120,
+  120,
+  120
+ ],
+ "loop": true,
+ "note": "Fortify status loop: 3 stone chips orbit the hero waist + ochre ground ring. Draw the back half before the hero if you split layers; otherwise draw over (chips are small)."
+}

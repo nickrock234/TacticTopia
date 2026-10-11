@@ -1,0 +1,24 @@
+{
+ "file": "fx_vengeance_aura.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  130,
+  130,
+  130,
+  130
+ ],
+ "loop": true,
+ "note": "Vengeance aura loop while active: crimson-violet embers rising + broken ground ring. Kept darker/violet so it does not read as team red."
+}

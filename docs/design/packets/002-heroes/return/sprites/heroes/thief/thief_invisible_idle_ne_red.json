@@ -1,0 +1,28 @@
+{
+ "file": "thief_invisible_idle_ne_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  200,
+  120,
+  200,
+  120
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "dagger",
+ "note": "Invisible: translucent shimmer (semi-transparent PNG). Replaces the normal sheet; no shield overlay while invisible. Only the thief's own team should see it; enemies see nothing. Renderer fallback: draw the normal sheet at ~25% alpha."
+}

@@ -1,0 +1,24 @@
+{
+ "file": "element_indicator_fire.png",
+ "frameW": 16,
+ "frameH": 32,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  120,
+  120,
+  120,
+  120
+ ],
+ "loop": true,
+ "anchor": [
+  8,
+  30
+ ],
+ "note": "16x32 element indicator: free-floating flame that bobs over a soft ground shadow (no post). Draw with its anchor on landmark_marker indicatorSlot (23,42 in the marker frame)."
+}

@@ -1,0 +1,26 @@
+{
+ "file": "fx_pinning_shot.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  40,
+  40,
+  70,
+  90,
+  110
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  26
+ ],
+ "note": "Arrow slams into the ground at the target feet (anchor = hero anchor). The Pinned status icon takes over after."
+}

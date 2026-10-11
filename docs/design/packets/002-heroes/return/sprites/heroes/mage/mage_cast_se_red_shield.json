@@ -1,0 +1,32 @@
+{
+ "file": "mage_cast_se_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  140,
+  160,
+  300,
+  160
+ ],
+ "loop": false,
+ "events": {
+  "spawnVfx": 2
+ },
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "staff",
+ "layer": "over hero",
+ "note": "Buckler overlay on the off-hand, frame-matched to mage_cast_se_red."
+}

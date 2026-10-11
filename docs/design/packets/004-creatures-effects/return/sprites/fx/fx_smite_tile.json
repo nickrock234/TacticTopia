@@ -1,0 +1,28 @@
+{
+ "file": "fx_smite_tile.png",
+ "frameW": 32,
+ "frameH": 48,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  50,
+  60,
+  80,
+  90,
+  100,
+  110
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  40
+ ],
+ "note": "Holy pillar per tile on the Smite cross: centre, then 2 tiles in each straight direction (4 arms). Centre at t=0, distance-1 tiles at 70ms, distance-2 at 140ms. Gold/white, never team colours."
+}

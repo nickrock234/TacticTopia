@@ -1,0 +1,18 @@
+{
+ "file": "fog_edge_se.png",
+ "frameW": 32,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "overlay": true,
+ "anchor": [
+  16,
+  16
+ ],
+ "note": "32x24. Fog clears toward the SE edge. Mirror for SW."
+}

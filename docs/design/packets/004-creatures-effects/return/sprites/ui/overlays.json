@@ -1,0 +1,51 @@
+{
+ "file": "overlays.png",
+ "frameW": 32,
+ "frameH": 16,
+ "frames": 11,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "durations": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  8
+ ],
+ "names": [
+  "move",
+  "move_target",
+  "attack",
+  "attack_edge",
+  "spell",
+  "selected",
+  "selected_hot",
+  "ring_red",
+  "ring_blue",
+  "support",
+  "move_far"
+ ],
+ "note": "Flat tile overlays, 32x16, anchor (16,8) = tile centre; pick a frame by names[]. Draw after terrain/territory, before objects; rings go under the hero (same anchor as the tile). Pulse states (attack target, respawn choices) by drawing at alpha 0.5-1 over 600 ms rather than extra frames. support = heal/buff areas (Cross heal, Inspire, etc.). move_far = in range but unreachable this turn (dashed pale edge)."
+}

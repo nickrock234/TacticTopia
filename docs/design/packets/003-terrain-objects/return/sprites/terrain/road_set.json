@@ -1,0 +1,15 @@
+{
+ "file": "road_set.png",
+ "frameW": 32,
+ "frameH": 16,
+ "cols": 16,
+ "rows": 16,
+ "frames": 256,
+ "overlay": true,
+ "anchor": [
+  16,
+  8
+ ],
+ "rule": "Column = edge-neighbour road mask (NE=1, SE=2, SW=4, NW=8). Row = corner (diagonal) neighbour road mask (N=1, E=2, S=4, W=8). Frame index = row*16+col. Mask 0/0 = lone dirt patch; a single bit = end cap.",
+ "note": "Overlay drawn on plains after all ground tiles. Each piece draws its half of every link, so neighbours join seamlessly. Diagonal links pass through the shared tile corner and paint a few pixels into the two flanking tiles (inside this 32x16 frame), so draw overlays in a pass after the ground layer. Grid: SE = column+1, SW = row+1, N = (row-1,col-1), E = (row-1,col+1), S = (row+1,col+1), W = (row+1,col-1). Replaces road_nw_se (= col 10, row 0)."
+}

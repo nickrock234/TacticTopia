@@ -1,0 +1,24 @@
+{
+ "file": "fx_ward.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  180,
+  180,
+  180,
+  180
+ ],
+ "loop": true,
+ "note": "Ward status loop: faint bubble outline with a travelling glint. Pop it with fx_spell_hit when it blocks."
+}

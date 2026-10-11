@@ -1,0 +1,17 @@
+{
+ "file": "portrait_barbarian.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 3,
+ "order": [
+  0,
+  1,
+  2
+ ],
+ "states": [
+  "normal",
+  "hurt",
+  "defeated"
+ ],
+ "note": "Frame 0 normal, 1 hurt, 2 defeated. Transparent background; UI supplies the frame."
+}

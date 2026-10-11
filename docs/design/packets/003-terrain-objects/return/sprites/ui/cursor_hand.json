@@ -1,0 +1,20 @@
+{
+ "file": "cursor_hand.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 2,
+ "order": [
+  0,
+  1
+ ],
+ "durations": [
+  260,
+  260
+ ],
+ "loop": true,
+ "anchor": [
+  15,
+  7
+ ],
+ "note": "Points right; fingertip anchor. Place left of the current menu choice."
+}

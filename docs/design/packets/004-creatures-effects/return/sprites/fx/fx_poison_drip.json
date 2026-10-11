@@ -1,0 +1,28 @@
+{
+ "file": "fx_poison_drip.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  110,
+  110,
+  110,
+  110,
+  110,
+  110
+ ],
+ "loop": true,
+ "note": "Poison status loop: acid drops slide down the hero and splash at the feet."
+}

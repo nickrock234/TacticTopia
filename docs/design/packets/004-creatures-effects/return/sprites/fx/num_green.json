@@ -1,0 +1,55 @@
+{
+ "file": "num_green.png",
+ "frameW": 10,
+ "frameH": 11,
+ "frames": 12,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "durations": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "loop": false,
+ "anchor": [
+  1,
+  10
+ ],
+ "glyphs": "0123456789+-",
+ "advance": [
+  6,
+  4,
+  7,
+  7,
+  6,
+  6,
+  7,
+  6,
+  7,
+  7,
+  6,
+  6
+ ],
+ "note": "Jersey 10 digits (16px source, pixel-snapped), 1px ink outline. Frame i = glyphs[i]; draw left to right advancing advance[i] px. Pop-up: spawn above hero head, scale 1.4->1 over 80ms, rise 14px over 700ms, fade in last 200ms. Heals."
+}

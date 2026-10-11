@@ -1,0 +1,7 @@
+{
+ "file": "icon16_recoil.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 1,
+ "note": "Recoil: damage the attacker takes back (Counterattack, Burning aura, monster strike-back). Red = you take damage."
+}

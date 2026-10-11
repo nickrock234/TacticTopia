@@ -1,0 +1,28 @@
+{
+ "file": "fx_lightning_strike.png",
+ "frameW": 32,
+ "frameH": 64,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  40,
+  50,
+  60,
+  70,
+  80,
+  90
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  56
+ ],
+ "note": "Bolt from the sky onto the target tile centre. Flash the screen white at 20% for frame 0. Paralysis sparks loop comes with the statuses set."
+}

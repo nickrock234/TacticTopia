@@ -1,0 +1,24 @@
+{
+ "file": "fx_invisible_shimmer.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  150,
+  150,
+  150,
+  150
+ ],
+ "loop": true,
+ "note": "Over the thief_invisible sprite for the owner/allies: faint glints. Enemies see nothing."
+}

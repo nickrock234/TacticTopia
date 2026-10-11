@@ -1,0 +1,32 @@
+{
+ "file": "barbarian_attack_se_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  180,
+  60,
+  160,
+  100,
+  140
+ ],
+ "loop": false,
+ "events": {
+  "hit": 2
+ },
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "axe"
+}

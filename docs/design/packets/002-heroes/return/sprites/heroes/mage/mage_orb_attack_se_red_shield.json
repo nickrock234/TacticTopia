@@ -1,0 +1,35 @@
+{
+ "file": "mage_orb_attack_se_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  160,
+  120,
+  140,
+  120,
+  160
+ ],
+ "loop": false,
+ "events": {
+  "release": 2
+ },
+ "projectile": "mage_bolt",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "orb",
+ "layer": "over hero",
+ "note": "Buckler overlay on the off-hand, frame-matched to mage_orb_attack_se_red."
+}

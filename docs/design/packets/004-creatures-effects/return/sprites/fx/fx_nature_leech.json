@@ -1,0 +1,24 @@
+{
+ "file": "fx_nature_leech.png",
+ "frameW": 8,
+ "frameH": 8,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  60,
+  60,
+  60,
+  60
+ ],
+ "loop": true,
+ "anchor": [
+  4,
+  4
+ ],
+ "note": "Leech orb, target to caster."
+}

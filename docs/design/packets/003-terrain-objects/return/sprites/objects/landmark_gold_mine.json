@@ -1,0 +1,24 @@
+{
+ "file": "landmark_gold_mine.png",
+ "frameW": 32,
+ "frameH": 48,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  200,
+  200,
+  200,
+  200
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  40
+ ],
+ "note": "Rock mound with timbered mine entrance, gold pile glint and lantern flicker. Own sand footprint like the brazier landmarks. 32x48 like landmark_fire; footprint diamond rows 32-47. Ownership is shown by the flag and territory tint, not on this sprite."
+}

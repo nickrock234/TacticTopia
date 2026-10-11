@@ -1,0 +1,17 @@
+{
+ "file": "flag_unclaimed.png",
+ "frameW": 16,
+ "frameH": 24,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "anchor": [
+  4,
+  23
+ ],
+ "note": "Plant at the landmark tile top-right corner."
+}

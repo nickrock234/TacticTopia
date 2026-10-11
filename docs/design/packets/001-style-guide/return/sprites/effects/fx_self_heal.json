@@ -1,0 +1,28 @@
+{
+ "file": "fx_self_heal.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  90,
+  90,
+  90,
+  90,
+  90,
+  120
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  36
+ ],
+ "note": "Overlay on the hero sprite, same anchor. Plays with the cast animation release frame."
+}

@@ -1,0 +1,26 @@
+{
+ "file": "fx_cleanse.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  60,
+  70,
+  80,
+  90,
+  100
+ ],
+ "loop": false,
+ "note": "Cleanse: white ripple at the feet, statuses removed at frame 1; then fx_ward loops while the ward holds."
+}

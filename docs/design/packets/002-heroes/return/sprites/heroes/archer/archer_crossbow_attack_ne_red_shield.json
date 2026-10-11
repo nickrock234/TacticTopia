@@ -1,0 +1,38 @@
+{
+ "file": "archer_crossbow_attack_ne_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  160,
+  120,
+  120,
+  160,
+  160
+ ],
+ "loop": false,
+ "events": {
+  "release": [
+   2,
+   3
+  ]
+ },
+ "projectile": "archer_bolt",
+ "note": "Buckler overlay, frame-matched to archer_crossbow_attack_ne_red. Draw only once the shield is bought.",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "crossbow",
+ "layer": "over hero"
+}

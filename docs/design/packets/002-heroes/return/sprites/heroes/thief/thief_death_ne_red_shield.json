@@ -1,0 +1,29 @@
+{
+ "file": "thief_death_ne_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  120,
+  120,
+  180,
+  0
+ ],
+ "loop": false,
+ "note": "Buckler overlay on the off-hand, frame-matched to thief_death_ne_red.",
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "dagger",
+ "layer": "over hero"
+}

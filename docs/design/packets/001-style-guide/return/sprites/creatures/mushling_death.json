@@ -1,0 +1,24 @@
+{
+ "file": "mushling_death.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  100,
+  120,
+  140,
+  160
+ ],
+ "loop": false,
+ "anchor": [
+  12,
+  22
+ ],
+ "note": "Remove sprite after last frame."
+}

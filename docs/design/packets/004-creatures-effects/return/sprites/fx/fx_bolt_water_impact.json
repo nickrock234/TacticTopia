@@ -1,0 +1,26 @@
+{
+ "file": "fx_bolt_water_impact.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  50,
+  60,
+  70,
+  80,
+  90
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  16
+ ],
+ "note": "Spawn at target chest (hero anchor minus 14px)."
+}

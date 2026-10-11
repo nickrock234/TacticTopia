@@ -1,0 +1,28 @@
+{
+ "file": "fx_empower.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  60,
+  70,
+  80,
+  90,
+  100,
+  110
+ ],
+ "loop": false,
+ "note": "Empower buff applied: gold motes + rising chevron on the target. Status icon takes over after."
+}

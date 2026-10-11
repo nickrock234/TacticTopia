@@ -1,0 +1,24 @@
+{
+ "file": "fx_paralysis.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "anchor": [
+  16,
+  36
+ ],
+ "durations": [
+  90,
+  90,
+  90,
+  90
+ ],
+ "loop": true,
+ "note": "Paralysis status loop: crackling yellow-white zigzags flicker around the hero."
+}

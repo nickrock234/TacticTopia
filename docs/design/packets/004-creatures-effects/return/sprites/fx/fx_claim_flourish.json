@@ -1,0 +1,32 @@
+{
+ "file": "fx_claim_flourish.png",
+ "frameW": 48,
+ "frameH": 48,
+ "frames": 8,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "durations": [
+  50,
+  60,
+  70,
+  80,
+  90,
+  100,
+  110,
+  120
+ ],
+ "loop": false,
+ "anchor": [
+  24,
+  40
+ ],
+ "note": "Claim complete: play on the landmark tile as the flag finishes raising. Star glint sits at the flag top (16px above marker flagSlot). Gold/white, neutral."
+}

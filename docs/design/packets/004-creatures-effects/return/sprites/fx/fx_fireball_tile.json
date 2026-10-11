@@ -1,0 +1,30 @@
+{
+ "file": "fx_fireball_tile.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 7,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "durations": [
+  50,
+  70,
+  80,
+  80,
+  90,
+  100,
+  110
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  24
+ ],
+ "note": "Play on all 9 tiles (target + the 8 around it). Target tile at t=0, the 8 neighbours at t=60ms. Leaves no lasting scorch."
+}

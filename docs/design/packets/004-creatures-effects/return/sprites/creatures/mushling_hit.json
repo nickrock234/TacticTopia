@@ -1,0 +1,24 @@
+{
+ "file": "mushling_hit.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  80,
+  90,
+  90,
+  80
+ ],
+ "loop": false,
+ "anchor": [
+  12,
+  22
+ ],
+ "note": "Frame 0 is the white flash. Sprite faces left; flip for right. Knockback is +x (away from a left-side attacker)."
+}

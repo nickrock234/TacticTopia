@@ -1,0 +1,25 @@
+{
+ "file": "troll_idle.png",
+ "frameW": 48,
+ "frameH": 48,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  300,
+  260,
+  300,
+  260
+ ],
+ "loop": true,
+ "anchor": [
+  24,
+  46
+ ],
+ "name": "Troll (lair boss, 25 HP)",
+ "note": "48x48. Stone-skinned, moss-backed cave troll leaning on a log club. Faces left; flip for right. Anchor = ground centre of its tile. Model: tools/troll.js."
+}

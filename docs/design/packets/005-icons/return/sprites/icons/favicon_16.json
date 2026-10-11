@@ -1,0 +1,15 @@
+{
+ "file": "favicon_16.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 1,
+ "order": [
+  0
+ ],
+ "durations": [
+  0
+ ],
+ "size": 16,
+ "family": "app",
+ "note": "16x16 favicon. Also use at 32 (x2) and 48 (x3)."
+}

@@ -1,0 +1,30 @@
+{
+ "file": "fx_nature_vines.png",
+ "frameW": 32,
+ "frameH": 32,
+ "frames": 7,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "durations": [
+  50,
+  60,
+  70,
+  90,
+  120,
+  90,
+  70
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  24
+ ],
+ "note": "Vines lash up from the target tile. At frame 4 spawn 3 fx_nature_leech orbs from the target chest flying back to the caster (stagger 80ms, ~160 px/s), then fx_self_heal on the caster."
+}

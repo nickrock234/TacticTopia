@@ -1,0 +1,28 @@
+{
+ "file": "fx_inspire_ring.png",
+ "frameW": 64,
+ "frameH": 32,
+ "frames": 6,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "durations": [
+  50,
+  60,
+  70,
+  80,
+  90,
+  100
+ ],
+ "loop": false,
+ "anchor": [
+  32,
+  24
+ ],
+ "note": "Inspire Berserkers war cry: ring from the caster tile; then fx_empower on each buffed ally (stagger 60ms). Warm amber, never team colours."
+}

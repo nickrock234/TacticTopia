@@ -1,0 +1,24 @@
+{
+ "file": "thief_knife.png",
+ "frameW": 9,
+ "frameH": 9,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  50,
+  50,
+  50,
+  50
+ ],
+ "loop": true,
+ "anchor": [
+  4,
+  4
+ ],
+ "note": "Spinning throwing knife, any facing. Move from the release frame along the facing; hide on impact."
+}

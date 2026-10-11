@@ -1,0 +1,12 @@
+{
+ "file": "mountain_ridge_set.png",
+ "frameW": 32,
+ "frameH": 32,
+ "columns": 16,
+ "rows": 3,
+ "anchor": [
+  16,
+  24
+ ],
+ "note": "Blocking terrain. Rows = 3 variants (pick by hash of r,c). Column = 4-bit mask of RIDGE neighbours sharing an edge: NE=1 (r-1,c), SE=2 (r,c+1), SW=4 (r+1,c), NW=8 (r,c-1). Column 0 = lone peak. Neighbouring ridges grow a rock spine to the shared edge so lines of ridge read as one wall. Bottom 16 rows are the footprint (plains drawn in); rock rises max 10px above the tile top. Draw back to front (r+c ascending)."
+}

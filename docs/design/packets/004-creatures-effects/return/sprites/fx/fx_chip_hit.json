@@ -1,0 +1,24 @@
+{
+ "file": "fx_chip_hit.png",
+ "frameW": 16,
+ "frameH": 16,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  40,
+  50,
+  60,
+  70
+ ],
+ "loop": false,
+ "anchor": [
+  8,
+  8
+ ],
+ "note": "Tiny chip hit for the minimum-1 damage case (attack fully blocked but still deals 1). Pair with fx_block."
+}

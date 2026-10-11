@@ -1,0 +1,41 @@
+{
+ "file": "barbarian_spear_attack_r1_ne_red_p1.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  160,
+  80,
+  140,
+  120,
+  140
+ ],
+ "loop": false,
+ "events": {
+  "hit": 2
+ },
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "weapon": "spear",
+ "reach": 1,
+ "piece": 1,
+ "pieces": 2,
+ "tileStep": 1,
+ "pixelOffset": [
+  16,
+  -8
+ ],
+ "note": "Piece 1 of 2. Draw on the tile 1 step(s) along the facing (pixelOffset from hero anchor; negate x when mirrored), sorted with that tile's depth. Same frame clock as the other pieces."
+}

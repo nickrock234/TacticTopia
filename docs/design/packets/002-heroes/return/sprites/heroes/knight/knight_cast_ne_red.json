@@ -1,0 +1,29 @@
+{
+ "file": "knight_cast_ne_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  140,
+  140,
+  280,
+  160
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red",
+ "events": {
+  "spawnVfx": 2
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "file": "wolfdog_death.png",
+ "frameW": 24,
+ "frameH": 24,
+ "frames": 5,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "durations": [
+  90,
+  120,
+  140,
+  140,
+  160
+ ],
+ "loop": false,
+ "anchor": [
+  12,
+  22
+ ],
+ "note": "Remove sprite after last frame."
+}

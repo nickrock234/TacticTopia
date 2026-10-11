@@ -1,0 +1,39 @@
+{
+ "file": "landmark_marker.png",
+ "frameW": 32,
+ "frameH": 48,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  200,
+  200,
+  200,
+  200
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  40
+ ],
+ "note": "Generic landmark: carved waystone on a stepped stone base, gold rune pulses. 32x48, footprint rows 32-47. Every element landmark is this marker plus an element indicator in the indicator slot; a landmark with no element is the marker alone.",
+ "indicatorSlot": [
+  23,
+  42
+ ],
+ "indicatorSlotNote": "Draw an element_indicator_* frame with its anchor at this pixel of the marker frame (front-right of the base), after the marker.",
+ "addonSlot": [
+  3,
+  46
+ ],
+ "addonSlotNote": "Draw a merchant/lair add-on frame with its anchor at this pixel of the marker frame (front-left of the base), after the marker and indicator. Add-ons spill past the frame to the left (up to x=-5).",
+ "flagSlot": [
+  11,
+  12
+ ],
+ "flagSlotNote": "Draw flag_top_* / flag_raise_* with its anchor (pole foot) at this pixel: the top of the pillar. Draw after the marker, before indicator and add-on."
+}

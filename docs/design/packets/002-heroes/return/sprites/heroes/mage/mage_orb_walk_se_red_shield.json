@@ -1,0 +1,29 @@
+{
+ "file": "mage_orb_walk_se_red_shield.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 4,
+ "order": [
+  0,
+  1,
+  2,
+  3
+ ],
+ "durations": [
+  110,
+  110,
+  110,
+  110
+ ],
+ "loop": true,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "SE",
+ "mirrorFor": "SW",
+ "team": "red",
+ "weapon": "orb",
+ "layer": "over hero",
+ "note": "Buckler overlay on the off-hand, frame-matched to mage_orb_walk_se_red."
+}

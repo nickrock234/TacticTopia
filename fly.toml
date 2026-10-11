@@ -1,0 +1,33 @@
+# Fly.io config for the Tactic-Topia game server.
+# Games are saved on a volume mounted at /data; create it once with:
+#   fly volumes create tt_data --size 1 --region dfw
+app = 'tactic-topia-server'
+primary_region = 'dfw'
+
+[build]
+  dockerfile = 'server/Dockerfile'
+
+[env]
+  DATA_DIR = '/data'
+
+[mounts]
+  source = 'tt_data'
+  destination = '/data'
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+
+  [[http_service.checks]]
+    interval = '15s'
+    timeout = '5s'
+    grace_period = '10s'
+    method = 'GET'
+    path = '/health'
+
+[[vm]]
+  size = 'shared-cpu-1x'
+  memory = '256mb'

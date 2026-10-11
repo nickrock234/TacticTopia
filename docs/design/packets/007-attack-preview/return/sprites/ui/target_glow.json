@@ -1,0 +1,43 @@
+{
+ "rule": "Generated at runtime from any sprite frame: ring 1 = every transparent pixel 4-adjacent to an opaque one, full alpha; ring 2 = every transparent pixel 4-adjacent to ring 1, alpha 100/255. Same colour for both rings. Draw over the sprite at the same anchor.",
+ "frames": 4,
+ "durations": [
+  120,
+  120,
+  120,
+  120
+ ],
+ "attack": [
+  "#fff4d6",
+  "#fff08a",
+  "#ffa42e",
+  "#fff08a"
+ ],
+ "heal": [
+  "#f2ffe0",
+  "#b8f0a0",
+  "#5ee06a",
+  "#b8f0a0"
+ ],
+ "hpBar": {
+  "size": [
+   18,
+   4
+  ],
+  "frame": "#0b0d2a",
+  "empty": "#262c4a",
+  "hp": "#5ee06a",
+  "lossFlash": [
+   "#ff5a5a",
+   "#fff4d6"
+  ],
+  "healFlash": [
+   "#b8f0a0",
+   "#ffffff"
+  ],
+  "flashMs": 200,
+  "offsetAboveSpriteTop": 3,
+  "ko": "remaining HP segment flashes, 5x5 skull right of the bar"
+ },
+ "preview": "_preview_target_glow.png (rows: none, attack f1, attack f2, heal f1, heal f2; plains / desert grounds)"
+}

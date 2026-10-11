@@ -1,0 +1,32 @@
+{
+ "file": "fx_resurrection.png",
+ "frameW": 32,
+ "frameH": 64,
+ "frames": 8,
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "anchor": [
+  16,
+  56
+ ],
+ "durations": [
+  70,
+  80,
+  90,
+  110,
+  130,
+  120,
+  100,
+  90
+ ],
+ "loop": false,
+ "note": "Resurrection: column on the fallen-hero marker; swap marker for the hero idle at frame 4 (fade in). Green-gold = life."
+}

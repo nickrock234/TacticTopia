@@ -1,0 +1,22 @@
+{
+ "file": "knight_hurt_ne_red.png",
+ "frameW": 32,
+ "frameH": 40,
+ "frames": 2,
+ "order": [
+  0,
+  1
+ ],
+ "durations": [
+  60,
+  240
+ ],
+ "loop": false,
+ "anchor": [
+  16,
+  36
+ ],
+ "facing": "NE",
+ "mirrorFor": "NW",
+ "team": "red"
+}
